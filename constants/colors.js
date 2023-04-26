@@ -1,0 +1,16 @@
+export default {
+  oldPrimary: "#00bf36",
+  primary: "#61764B",
+  oldHeaderColor: "#00330e",
+  inputPlaceholder: "#9BA17B",
+  selectionBg: "#f2e7d8",
+  selectionShadow: "#b3aa9f",
+  headerColor: "#40513B",
+  bgDark: "#292729",
+  oldBgLight: "#fff",
+  bgLight: "#FFF3E2",
+  textDark: "#fff",
+  textLight: "black",
+  menuHoverDark: "0.3",
+  menuHoverLight: "0.1",
+} 
